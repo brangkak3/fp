@@ -1,6 +1,8 @@
 <!-- ini adalah file yang di dapat dari internet -->
 <!-- sistem absen -->
 
+<!-- percobaan berikut nya (delete me) -->
+
 <?php
 	$siswa=array(
 		array('id'=>1,'nama'=>'fai 1'),
